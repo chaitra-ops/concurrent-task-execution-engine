@@ -1,0 +1,72 @@
+2026-06-25 21:53:18,053 - INFO - task start | worker=Worker-1 | task_id=da16ab47-79ed-4103-9db5-8666c35cc311 | task_name=Task 1
+2026-06-25 21:53:18,053 - INFO - task start | worker=Worker-2 | task_id=ce6a069c-71d6-439d-831c-d630d3459d12 | task_name=Task 2
+2026-06-25 21:53:18,053 - INFO - task start | worker=Worker-3 | task_id=b1c30762-f417-442d-95e9-5b0c72d4a8c6 | task_name=Task 3
+2026-06-25 21:53:18,558 - INFO - task completion | worker=Worker-1 | task_id=da16ab47-79ed-4103-9db5-8666c35cc311 | task_name=Task 1
+2026-06-25 21:53:18,558 - INFO - task completion | worker=Worker-2 | task_id=ce6a069c-71d6-439d-831c-d630d3459d12 | task_name=Task 2
+2026-06-25 21:53:18,558 - INFO - task completion | worker=Worker-3 | task_id=b1c30762-f417-442d-95e9-5b0c72d4a8c6 | task_name=Task 3
+2026-06-25 21:53:18,558 - INFO - task start | worker=Worker-1 | task_id=cfa097b2-7152-4fa7-b421-9138e394f03d | task_name=Task 4
+2026-06-25 21:53:18,559 - INFO - task start | worker=Worker-2 | task_id=2c2eb2d6-5fb3-4a0f-ad02-c134ea4756c4 | task_name=Task 5
+2026-06-25 21:53:18,559 - INFO - task start | worker=Worker-3 | task_id=cf24f3fa-7ceb-42bf-be0a-fc06864776e8 | task_name=Task 6
+2026-06-25 21:53:19,064 - INFO - task completion | worker=Worker-3 | task_id=cf24f3fa-7ceb-42bf-be0a-fc06864776e8 | task_name=Task 6
+2026-06-25 21:53:19,064 - INFO - task completion | worker=Worker-2 | task_id=2c2eb2d6-5fb3-4a0f-ad02-c134ea4756c4 | task_name=Task 5
+2026-06-25 21:53:19,064 - INFO - task completion | worker=Worker-1 | task_id=cfa097b2-7152-4fa7-b421-9138e394f03d | task_name=Task 4
+2026-06-25 21:53:19,064 - INFO - task start | worker=Worker-3 | task_id=b194451b-3805-42a9-b779-d62cc608d9ae | task_name=Task 7
+2026-06-25 21:53:19,064 - INFO - task start | worker=Worker-2 | task_id=5debc326-27b3-4725-91dd-16deebbc6dda | task_name=Task 8
+2026-06-25 21:53:19,064 - INFO - task start | worker=Worker-1 | task_id=bb25a114-8e89-4858-921e-bee756ff2d5f | task_name=Task 9
+2026-06-25 21:53:19,569 - INFO - task completion | worker=Worker-3 | task_id=b194451b-3805-42a9-b779-d62cc608d9ae | task_name=Task 7
+2026-06-25 21:53:19,569 - INFO - task completion | worker=Worker-1 | task_id=bb25a114-8e89-4858-921e-bee756ff2d5f | task_name=Task 9
+2026-06-25 21:53:19,570 - INFO - task completion | worker=Worker-2 | task_id=5debc326-27b3-4725-91dd-16deebbc6dda | task_name=Task 8
+2026-06-25 21:53:19,570 - INFO - task start | worker=Worker-3 | task_id=94f9a008-7d9f-4262-bf4d-12f627e2f0bc | task_name=Task 10
+2026-06-25 21:53:20,071 - INFO - task completion | worker=Worker-3 | task_id=94f9a008-7d9f-4262-bf4d-12f627e2f0bc | task_name=Task 10
+2026-06-25 21:56:45,301 - INFO - task start | worker=Worker-1 | task_id=750af603-4b95-4561-a5f2-3945206f3183 | task_name=Task 1
+2026-06-25 21:56:45,301 - INFO - task start | worker=Worker-2 | task_id=854d6eb9-20f2-4481-86d9-463a0276a820 | task_name=Task 2
+2026-06-25 21:56:45,301 - INFO - task start | worker=Worker-3 | task_id=d28c8962-e0f2-45a8-bb8d-989d17b2f866 | task_name=Task 3
+2026-06-25 21:56:45,806 - INFO - task completion | worker=Worker-1 | task_id=750af603-4b95-4561-a5f2-3945206f3183 | task_name=Task 1
+2026-06-25 21:56:45,807 - INFO - task completion | worker=Worker-2 | task_id=854d6eb9-20f2-4481-86d9-463a0276a820 | task_name=Task 2
+2026-06-25 21:56:45,807 - INFO - task completion | worker=Worker-3 | task_id=d28c8962-e0f2-45a8-bb8d-989d17b2f866 | task_name=Task 3
+2026-06-25 21:56:45,807 - INFO - task start | worker=Worker-1 | task_id=bf3436ef-07c1-440c-a413-5aedfaeb7ad8 | task_name=Task 4
+2026-06-25 21:56:45,807 - INFO - task start | worker=Worker-2 | task_id=4cc0533a-09e6-4567-91d6-6894ebbed6c4 | task_name=Task 5
+2026-06-25 21:56:45,807 - INFO - task start | worker=Worker-3 | task_id=06c1ef86-32e9-479e-9d7a-fb8b862a8257 | task_name=Task 6
+2026-06-25 21:56:46,308 - INFO - task completion | worker=Worker-2 | task_id=4cc0533a-09e6-4567-91d6-6894ebbed6c4 | task_name=Task 5
+2026-06-25 21:56:46,309 - INFO - task completion | worker=Worker-1 | task_id=bf3436ef-07c1-440c-a413-5aedfaeb7ad8 | task_name=Task 4
+2026-06-25 21:56:46,309 - INFO - task completion | worker=Worker-3 | task_id=06c1ef86-32e9-479e-9d7a-fb8b862a8257 | task_name=Task 6
+2026-06-25 21:56:46,309 - INFO - task start | worker=Worker-2 | task_id=654d41cd-d237-4820-bc4c-382f54902730 | task_name=Task 7
+2026-06-25 21:56:46,309 - INFO - task start | worker=Worker-1 | task_id=c593b1b3-8bac-49e4-9a79-1544da8c45b5 | task_name=Task 8
+2026-06-25 21:56:46,309 - INFO - task start | worker=Worker-3 | task_id=19564207-537d-49bd-8702-914ecbbfa1ac | task_name=Task 9
+2026-06-25 21:56:46,811 - INFO - task completion | worker=Worker-3 | task_id=19564207-537d-49bd-8702-914ecbbfa1ac | task_name=Task 9
+2026-06-25 21:56:46,812 - INFO - task start | worker=Worker-3 | task_id=d759a80e-a453-4887-80c8-0df56e37a8c5 | task_name=Task 10
+2026-06-25 21:56:46,813 - INFO - task completion | worker=Worker-1 | task_id=c593b1b3-8bac-49e4-9a79-1544da8c45b5 | task_name=Task 8
+2026-06-25 21:56:46,814 - INFO - task completion | worker=Worker-2 | task_id=654d41cd-d237-4820-bc4c-382f54902730 | task_name=Task 7
+2026-06-25 21:56:47,317 - INFO - task completion | worker=Worker-3 | task_id=d759a80e-a453-4887-80c8-0df56e37a8c5 | task_name=Task 10
+2026-06-25 21:59:26,983 - INFO - task start | worker=Worker-1 | task_id=55124d3c-e7e1-44b9-84d2-d8642676a3be | task_name=Task 1
+2026-06-25 21:59:26,983 - INFO - task start | worker=Worker-2 | task_id=86a68dca-2658-4a4b-bf77-731c0a9233c9 | task_name=Task 2
+2026-06-25 21:59:26,983 - INFO - task start | worker=Worker-3 | task_id=94ec1a43-1819-4178-bb8a-7de0f0885645 | task_name=Task 3
+2026-06-25 21:59:27,488 - INFO - task completion | worker=Worker-1 | task_id=55124d3c-e7e1-44b9-84d2-d8642676a3be | task_name=Task 1
+2026-06-25 21:59:27,488 - INFO - task completion | worker=Worker-3 | task_id=94ec1a43-1819-4178-bb8a-7de0f0885645 | task_name=Task 3
+2026-06-25 21:59:27,488 - INFO - task completion | worker=Worker-2 | task_id=86a68dca-2658-4a4b-bf77-731c0a9233c9 | task_name=Task 2
+2026-06-25 21:59:27,489 - INFO - task start | worker=Worker-1 | task_id=1b29c88e-4aeb-4ff6-88db-15731b995b16 | task_name=Task 4
+2026-06-25 21:59:27,489 - INFO - task start | worker=Worker-3 | task_id=4a5dfdd3-bade-4f35-a04c-7ba83d8638df | task_name=Task 5
+2026-06-25 21:59:27,489 - INFO - task start | worker=Worker-2 | task_id=6715d740-3210-43ed-8998-75df7874c485 | task_name=Task 6
+2026-06-25 21:59:27,990 - INFO - task completion | worker=Worker-2 | task_id=6715d740-3210-43ed-8998-75df7874c485 | task_name=Task 6
+2026-06-25 21:59:27,990 - INFO - task completion | worker=Worker-3 | task_id=4a5dfdd3-bade-4f35-a04c-7ba83d8638df | task_name=Task 5
+2026-06-25 21:59:27,990 - INFO - task start | worker=Worker-2 | task_id=aef5398f-96ae-4ed2-84a3-894007fbf578 | task_name=Task 7
+2026-06-25 21:59:27,991 - INFO - task start | worker=Worker-3 | task_id=57e99933-89a8-4b76-ae19-95a0990014b2 | task_name=Task 8
+2026-06-25 21:59:27,991 - INFO - task completion | worker=Worker-1 | task_id=1b29c88e-4aeb-4ff6-88db-15731b995b16 | task_name=Task 4
+2026-06-25 21:59:27,991 - INFO - task start | worker=Worker-1 | task_id=dfd1125a-aed0-47dd-8651-5876529737ff | task_name=Task 9
+2026-06-25 21:59:28,493 - INFO - task completion | worker=Worker-1 | task_id=dfd1125a-aed0-47dd-8651-5876529737ff | task_name=Task 9
+2026-06-25 21:59:28,493 - INFO - task start | worker=Worker-1 | task_id=c5d95bdd-7b2e-4fa9-a77f-280783bbbe88 | task_name=Task 10
+2026-06-25 21:59:28,496 - INFO - task completion | worker=Worker-2 | task_id=aef5398f-96ae-4ed2-84a3-894007fbf578 | task_name=Task 7
+2026-06-25 21:59:28,496 - INFO - task completion | worker=Worker-3 | task_id=57e99933-89a8-4b76-ae19-95a0990014b2 | task_name=Task 8
+2026-06-25 21:59:28,998 - INFO - task completion | worker=Worker-1 | task_id=c5d95bdd-7b2e-4fa9-a77f-280783bbbe88 | task_name=Task 10
+2026-06-25 22:01:18,542 - INFO - task start | worker=Worker-1 | task_id=c8e4841d-f502-4d44-b272-9d9d39174b86 | task_name=Counter task
+2026-06-25 22:01:18,597 - INFO - task completion | worker=Worker-1 | task_id=c8e4841d-f502-4d44-b272-9d9d39174b86 | task_name=Counter task
+2026-06-25 22:01:18,631 - INFO - task start | worker=Worker-1 | task_id=cb8f61ac-6aaf-44c9-b518-71d82558e065 | task_name=High task 1
+2026-06-25 22:01:18,631 - INFO - task start | worker=Worker-2 | task_id=c5b452bd-87b8-4d33-bc8d-7b1009e4d3d1 | task_name=High task 2
+2026-06-25 22:01:18,936 - INFO - task completion | worker=Worker-2 | task_id=c5b452bd-87b8-4d33-bc8d-7b1009e4d3d1 | task_name=High task 2
+2026-06-25 22:01:18,936 - INFO - task completion | worker=Worker-1 | task_id=cb8f61ac-6aaf-44c9-b518-71d82558e065 | task_name=High task 1
+2026-06-25 22:01:18,936 - INFO - task start | worker=Worker-2 | task_id=3ae38fa5-c061-4147-967c-e1666b32cdf0 | task_name=Medium task 1
+2026-06-25 22:01:18,936 - INFO - task start | worker=Worker-1 | task_id=e2a93f4a-d4e4-4180-8649-93f4c5113cd6 | task_name=Low task 1
+2026-06-25 22:01:19,239 - INFO - task completion | worker=Worker-2 | task_id=3ae38fa5-c061-4147-967c-e1666b32cdf0 | task_name=Medium task 1
+2026-06-25 22:01:19,239 - INFO - task start | worker=Worker-2 | task_id=24c582d9-f44d-4202-9264-65852e3a789f | task_name=Low task 2
+2026-06-25 22:01:19,240 - INFO - task completion | worker=Worker-1 | task_id=e2a93f4a-d4e4-4180-8649-93f4c5113cd6 | task_name=Low task 1
+2026-06-25 22:01:19,542 - INFO - task completion | worker=Worker-2 | task_id=24c582d9-f44d-4202-9264-65852e3a789f | task_name=Low task 2
